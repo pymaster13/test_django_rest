@@ -70,7 +70,7 @@ An admin panel should be implemented in which you can look at these models and m
 ### Features
 
 Main libraries that are used : 
-* Django3,
+* Django 3,
 * djangorestframework,
 * djangorestframework-simplejwt,
 * django-rest-swagger (drf-spectacular).
